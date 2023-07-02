@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🧑 I'm a Ph.D. candidate at Beijing University of Posts and Telecommunications, Beijing, China.
 - 🔭 I’m currently working on multivariate time series data analysis, including forecasting, imputation, and anomaly detection. These works are mainly applied in the fields of transportation and energy.
 <!--
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenXu02)
