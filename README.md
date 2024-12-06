@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on spatiotemporal modeling (multivariate time series analysis) and generative model, including forecasting, imputation, and anomaly detection. These works are mainly applied in the fields of transportation and energy.
 - 👯 I'm working at McGill University in Canada as a visiting Ph.D.
 
-#### Books are the ladder of human progress, while open source is the elevator. 
+### Books are the ladder of human progress, while open source is the elevator. 
 - I support open source and advocate for reproducible research.
 
-I will post the data and code related to my papers/projects here, as well as share some learning insights and program debugging tips.
+### I will post the data and code related to my papers/projects here, as well as share some learning insights and program debugging tips.
 
 <!--
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenXu02)
