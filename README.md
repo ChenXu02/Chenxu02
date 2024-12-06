@@ -6,7 +6,7 @@
 ### Books are the ladder of human progress, while open source is the elevator. 
 - I support open source and advocate for reproducible research.
 
-### I will post the data and code related to my papers/projects here, as well as share some learning insights and program debugging tips.
+#### I will post the data and code related to my papers/projects here, as well as share some learning insights and program debugging tips.
 
 <!--
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenXu02)
