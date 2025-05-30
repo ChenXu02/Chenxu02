@@ -1,6 +1,6 @@
 # Hi there 👋
 - 🧑 I'm a Ph.D. candidate at Beijing University of Posts and Telecommunications (BUPT), Beijing, China.
-- 🔭 I’m currently working on spatiotemporal modeling (multivariate time series analysis) and more efficient generative models (VAE and diffusion), including forecasting, imputation, and anomaly detection.
+- 🔭 I’m currently working on probabilistic spatiotemporal modeling (multivariate time series analysis) and more efficient generative models (VAE and diffusion), including forecasting, imputation, and anomaly detection.
 - 👯 I'm working at McGill University in Canada as a visiting Ph.D.
 
 ### Books are the ladder of human progress, while open source is the elevator. 
